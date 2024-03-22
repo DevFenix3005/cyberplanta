@@ -74,7 +74,7 @@ services:
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
     environment:
-      LOGDNA_KEY: bf6c2e416fd82710f9672a4cff825243
+      LOGDNA_KEY: ${INGEST_KEY}
       FILTER_NAME: "mykafka-application-1"
       TAGS: "docker,dev,cyberplanta"
     depends_on:
