@@ -1,0 +1,12 @@
+[submodule "buildSrc"]
+	path = buildSrc
+	url = git@github.com:DevFenix3005/cyberplanta-buildSrc.git
+[submodule "commons"]
+	path = commons
+	url = git@github.com:DevFenix3005/cyberplanta-commons.git
+[submodule "utilities"]
+	path = utilities
+	url = git@github.com:DevFenix3005/cyberplanta-utilities.git
+[submodule "consumer"]
+	path = consumer
+	url = git@github.com:DevFenix3005/cyberplanta-consumer.git
