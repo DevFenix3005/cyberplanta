@@ -5,6 +5,9 @@
       <excludeFolder url="file://$MODULE_DIR$/../sonarlint" />
     </content>
   </component>
+  <component name="CheckStyle-IDEA-Module" serialisationVersion="2">
+    <option name="activeLocationsIds" />
+  </component>
   <component name="SonarLintModuleSettings">
     <option name="uniqueId" value="abf57759-71cc-4ea7-91ae-dbb91009d642" />
   </component>
